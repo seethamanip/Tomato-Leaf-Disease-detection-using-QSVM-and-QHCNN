@@ -1,0 +1,426 @@
+/* Matched Rule from user-agent */
+div {
+  display: block;
+}
+
+/* Matched Rule from user-agent */
+address, blockquote, center, div, figure, figcaption, footer, form, header, hr, legend, listing, main, p, plaintext, pre, summary, xmp, article, aside, h1, h2, h3, h4, h5, h6, hgroup, nav, section, search, table, caption, colgroup, col, thead, tbody, tfoot, tr, td, th, dir, dd, dl, dt, menu, ol, ul, li, bdi, output, [dir="ltr" i], [dir="rtl" i], [dir="auto" i] {
+  unicode-bidi: isolate;
+}
+
+/* Matched Rule from regular */
+*, ::before, ::after {
+  box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* Matched Rule from regular */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+}
+
+/* Matched Rule from regular */
+.st-am {
+  pointer-events: auto;
+  pointer-events: auto;
+}
+
+/* Matched Rule from regular */
+.st-ao {
+  display: flex;
+  display: flex;
+}
+
+/* Matched Rule from regular */
+.st-ap {
+  -webkit-box-align: start;
+  align-items: start;
+  -webkit-box-align: start;
+  align-items: start;
+}
+
+/* Matched Rule from regular */
+.st-aq {
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+}
+
+/* Matched Rule from regular */
+.st-ar {
+  width: 100%;
+  width: 100%;
+}
+
+/* Matched Rule from regular */
+.st-as {
+  min-height: 100%;
+  min-height: 100%;
+}
+
+/* Matched Rule from regular */
+.st-at {
+  user-select: none;
+  user-select: none;
+}
+
+/* Matched Rule from regular */
+.st-au {
+  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+/* Matched Rule from regular */
+.st-av {
+  -webkit-tap-highlight-color: transparent;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Matched Rule from regular */
+.st-ax {
+  transition-property: opacity;
+  transition-property: opacity;
+}
+
+/* Matched Rule from regular */
+.st-ay {
+  transition-duration: 400ms;
+  transition-duration: 400ms;
+}
+
+/* Matched Rule from regular */
+.st-az {
+  transition-timing-function: cubic-bezier(0.2, 0.8, 0.4, 1);
+  transition-timing-function: cubic-bezier(0.2, 0.8, 0.4, 1);
+}
+
+/* Matched Rule from regular */
+.st-b0 {
+  padding-top: 2rem;
+  padding-top: 2rem;
+}
+
+/* Matched Rule from regular */
+.st-cu {
+  opacity: 1;
+  opacity: 1;
+}
+
+/* Inherited from ancestor level 1 (user-agent) */
+div {
+  display: block;
+}
+
+/* Inherited from ancestor level 1 (user-agent) */
+address, blockquote, center, div, figure, figcaption, footer, form, header, hr, legend, listing, main, p, plaintext, pre, summary, xmp, article, aside, h1, h2, h3, h4, h5, h6, hgroup, nav, section, search, table, caption, colgroup, col, thead, tbody, tfoot, tr, td, th, dir, dd, dl, dt, menu, ol, ul, li, bdi, output, [dir="ltr" i], [dir="rtl" i], [dir="auto" i] {
+  unicode-bidi: isolate;
+}
+
+/* Inherited from ancestor level 1 (regular) */
+*, ::before, ::after {
+  box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* Inherited from ancestor level 1 (regular) */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+}
+
+/* Inherited from ancestor level 1 (regular) */
+.st-af {
+  top: 0px;
+  top: 0px;
+}
+
+/* Inherited from ancestor level 1 (regular) */
+.st-ag {
+  left: 0px;
+  left: 0px;
+}
+
+/* Inherited from ancestor level 1 (regular) */
+.st-ah {
+  right: 0px;
+  right: 0px;
+}
+
+/* Inherited from ancestor level 1 (regular) */
+.st-aj {
+  position: fixed;
+  position: fixed;
+}
+
+/* Inherited from ancestor level 1 (regular) */
+.st-ak {
+  overflow: auto;
+  overflow-x: auto;
+  overflow-y: auto;
+}
+
+/* Inherited from ancestor level 1 (regular) */
+.st-al {
+  bottom: 0px;
+  bottom: 0px;
+}
+
+/* Inherited from ancestor level 1 (regular) */
+.st-am {
+  pointer-events: auto;
+  pointer-events: auto;
+}
+
+/* Inherited from ancestor level 1 (regular) */
+.st-an {
+  background: rgba(151, 166, 195, 0.25);
+  background-image: initial;
+  background-position-x: initial;
+  background-position-y: initial;
+  background-size: initial;
+  background-repeat: initial;
+  background-attachment: initial;
+  background-origin: initial;
+  background-clip: initial;
+  background-color: rgba(151, 166, 195, 0.25);
+}
+
+/* Inherited from ancestor level 2 (user-agent) */
+div {
+  display: block;
+}
+
+/* Inherited from ancestor level 2 (user-agent) */
+address, blockquote, center, div, figure, figcaption, footer, form, header, hr, legend, listing, main, p, plaintext, pre, summary, xmp, article, aside, h1, h2, h3, h4, h5, h6, hgroup, nav, section, search, table, caption, colgroup, col, thead, tbody, tfoot, tr, td, th, dir, dd, dl, dt, menu, ol, ul, li, bdi, output, [dir="ltr" i], [dir="rtl" i], [dir="auto" i] {
+  unicode-bidi: isolate;
+}
+
+/* Inherited from ancestor level 2 (regular) */
+*, ::before, ::after {
+  box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* Inherited from ancestor level 2 (regular) */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+}
+
+/* Inherited from ancestor level 3 (user-agent) */
+div {
+  display: block;
+}
+
+/* Inherited from ancestor level 3 (user-agent) */
+address, blockquote, center, div, figure, figcaption, footer, form, header, hr, legend, listing, main, p, plaintext, pre, summary, xmp, article, aside, h1, h2, h3, h4, h5, h6, hgroup, nav, section, search, table, caption, colgroup, col, thead, tbody, tfoot, tr, td, th, dir, dd, dl, dt, menu, ol, ul, li, bdi, output, [dir="ltr" i], [dir="rtl" i], [dir="auto" i] {
+  unicode-bidi: isolate;
+}
+
+/* Inherited from ancestor level 3 (regular) */
+*, ::before, ::after {
+  box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* Inherited from ancestor level 3 (regular) */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+}
+
+/* Inherited from ancestor level 3 (regular) */
+.st-ae {
+  position: absolute;
+  position: absolute;
+}
+
+/* Inherited from ancestor level 3 (regular) */
+.st-af {
+  top: 0px;
+  top: 0px;
+}
+
+/* Inherited from ancestor level 3 (regular) */
+.st-ag {
+  left: 0px;
+  left: 0px;
+}
+
+/* Inherited from ancestor level 3 (regular) */
+.st-ah {
+  right: 0px;
+  right: 0px;
+}
+
+/* Inherited from ancestor level 3 (regular) */
+.st-ai {
+  z-index: 1000060;
+  z-index: 1000060;
+}
+
+/* Inherited from ancestor level 4 (user-agent) */
+div {
+  display: block;
+}
+
+/* Inherited from ancestor level 4 (user-agent) */
+address, blockquote, center, div, figure, figcaption, footer, form, header, hr, legend, listing, main, p, plaintext, pre, summary, xmp, article, aside, h1, h2, h3, h4, h5, h6, hgroup, nav, section, search, table, caption, colgroup, col, thead, tbody, tfoot, tr, td, th, dir, dd, dl, dt, menu, ol, ul, li, bdi, output, [dir="ltr" i], [dir="rtl" i], [dir="auto" i] {
+  unicode-bidi: isolate;
+}
+
+/* Inherited from ancestor level 4 (regular) */
+*, ::before, ::after {
+  box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* Inherited from ancestor level 4 (regular) */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+}
+
+/* Inherited from ancestor level 5 (user-agent) */
+div {
+  display: block;
+}
+
+/* Inherited from ancestor level 5 (user-agent) */
+address, blockquote, center, div, figure, figcaption, footer, form, header, hr, legend, listing, main, p, plaintext, pre, summary, xmp, article, aside, h1, h2, h3, h4, h5, h6, hgroup, nav, section, search, table, caption, colgroup, col, thead, tbody, tfoot, tr, td, th, dir, dd, dl, dt, menu, ol, ul, li, bdi, output, [dir="ltr" i], [dir="rtl" i], [dir="auto" i] {
+  unicode-bidi: isolate;
+}
+
+/* Inherited from ancestor level 5 (regular) */
+*, ::before, ::after {
+  box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* Inherited from ancestor level 5 (regular) */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+}
+
+/* Inherited from ancestor level 6 (user-agent) */
+div {
+  display: block;
+}
+
+/* Inherited from ancestor level 6 (user-agent) */
+address, blockquote, center, div, figure, figcaption, footer, form, header, hr, legend, listing, main, p, plaintext, pre, summary, xmp, article, aside, h1, h2, h3, h4, h5, h6, hgroup, nav, section, search, table, caption, colgroup, col, thead, tbody, tfoot, tr, td, th, dir, dd, dl, dt, menu, ol, ul, li, bdi, output, [dir="ltr" i], [dir="rtl" i], [dir="auto" i] {
+  unicode-bidi: isolate;
+}
+
+/* Inherited from ancestor level 6 (regular) */
+*, ::before, ::after {
+  box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* Inherited from ancestor level 6 (regular) */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+}
+
+/* Inherited from ancestor level 7 (user-agent) */
+body {
+  display: block;
+  margin-top: 8px;
+  margin-right: 8px;
+  margin-bottom: 8px;
+  margin-left: 8px;
+}
+
+/* Inherited from ancestor level 7 (regular) */
+*, ::before, ::after {
+  box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* Inherited from ancestor level 7 (regular) */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+}
+
+/* Inherited from ancestor level 7 (regular) */
+body {
+  counter-reset: katexEqnNo mmlEqnNo;
+  counter-reset: katexEqnNo 0 mmlEqnNo 0;
+}
+
+/* Inherited from ancestor level 7 (regular) */
+body {
+  margin: 0px;
+  font-family: "Source Sans", sans-serif;
+  font-weight: 400;
+  line-height: 1.6;
+  color: rgb(49, 51, 63);
+  background-color: rgb(255, 255, 255);
+  text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-font-smoothing: auto;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  font-family: "Source Sans", sans-serif;
+  font-weight: 400;
+  line-height: 1.6;
+  color: rgb(49, 51, 63);
+  background-color: rgb(255, 255, 255);
+  text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-font-smoothing: auto;
+}
+
+/* Inherited from ancestor level 8 (user-agent) */
+html {
+  display: block;
+}
+
+/* Inherited from ancestor level 8 (user-agent) */
+:root {
+  view-transition-name: root;
+}
+
+/* Inherited from ancestor level 8 (regular) */
+*, ::before, ::after {
+  box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* Inherited from ancestor level 8 (regular) */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+}
+
+/* Inherited from ancestor level 8 (regular) */
+html {
+  font-size: 16px;
+  font-size: 16px;
+}

@@ -1,0 +1,13 @@
+{
+  "accuracy": 0.9924749163879598,
+  "precision_weighted": 0.9925178380053751,
+  "recall_weighted": 0.9924749163879598,
+  "f1_weighted": 0.9924611848106566,
+  "num_samples": 11956,
+  "num_classes": 7,
+  "num_qubits": 8,
+  "num_layers": 2,
+  "max_samples_per_class": 0,
+  "feature_extractor": "transfer_learning_onnx",
+  "backbone": "mobilenetv2-7"
+}

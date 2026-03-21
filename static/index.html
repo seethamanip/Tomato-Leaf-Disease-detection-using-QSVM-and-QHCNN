@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tomato Leaf Disease Detection</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="header-content">
+                <h1>🍅 Tomato Leaf Disease Detection</h1>
+                <p class="subtitle">Advanced Classification using Quantum SVM (QSVM)</p>
+            </div>
+        </header>
+
+        <main>
+            <div class="upload-section">
+                <div class="upload-box">
+                    <svg class="upload-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                        <polyline points="17 8 12 3 7 8"></polyline>
+                        <line x1="12" y1="3" x2="12" y2="15"></line>
+                    </svg>
+                    <h2>Upload Tomato Leaf Image</h2>
+                    <p>Drag and drop or click to select</p>
+                    <input type="file" id="imageInput" accept="image/jpeg,image/png,image/jpg" hidden>
+                    <button class="upload-btn" onclick="document.getElementById('imageInput').click()">
+                        Choose Image
+                    </button>
+                    <p class="file-info">Supported: JPG, JPEG, PNG (Max 8MB)</p>
+                </div>
+            </div>
+
+            <!-- Image Preview -->
+            <div id="previewSection" class="preview-section hidden">
+                <div class="preview-container">
+                    <img id="previewImage" src="" alt="Preview" class="preview-image">
+                </div>
+            </div>
+
+            <!-- Loading Spinner -->
+            <div id="loadingSpinner" class="loading-spinner hidden">
+                <div class="spinner"></div>
+                <p>Analyzing image...</p>
+            </div>
+
+            <!-- Results Section -->
+            <div id="resultsSection" class="results-section hidden">
+                <div class="results-card">
+                    <h2>Prediction Results</h2>
+                    
+                    <div class="result-item">
+                        <label>Predicted Disease:</label>
+                        <p id="diseaseName" class="disease-name-result">-</p>
+                    </div>
+
+                    <div class="result-item">
+                        <label>Confidence Score:</label>
+                        <p id="confidenceScore" class="confidence-score-result">-</p>
+                    </div>
+
+                    <div class="result-item">
+                        <label>Model Accuracy:</label>
+                        <p id="modelAccuracy">-</p>
+                    </div>
+
+                    <div class="result-item">
+                        <label>Class-wise Similarities:</label>
+                        <div id="similarityChart" class="similarity-chart"></div>
+                    </div>
+
+                    <div class="action-buttons">
+                        <button class="btn-primary" onclick="resetForm()">Analyze Another Image</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Error Message -->
+            <div id="errorSection" class="error-section hidden">
+                <div class="error-card">
+                    <h3>⚠️ Error</h3>
+                    <p id="errorMessage"></p>
+                    <button class="btn-primary" onclick="closeError()">Dismiss</button>
+                </div>
+            </div>
+
+            <!-- Comparison Panel -->
+            <div id="comparisonSection" class="comparison-section">
+                <div class="comparison-card">
+                    <h2>Model Comparison</h2>
+                    <p class="comparison-desc">Summary comparing QSVM vs classical models (auto-generated).</p>
+                    <div id="comparisonContent">
+                        <p class="muted">Loading comparison summary...</p>
+                    </div>
+                    <div class="action-buttons">
+                        <button class="btn-primary" id="refreshComparison">Refresh Comparison</button>
+                        <a id="downloadComparison" class="btn-primary" href="#" style="text-decoration:none;display:none;">Download Report</a>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <footer>
+            <p>Tomato Leaf Disease Detection • Powered by Quantum SVM & Classical Features</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

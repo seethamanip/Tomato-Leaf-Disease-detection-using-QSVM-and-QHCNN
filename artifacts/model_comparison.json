@@ -1,0 +1,33 @@
+{
+  "timestamp": "C:\\Users\\Admin\\Desktop\\placement",
+  "model_comparison": {
+    "QSVM": {
+      "accuracy": 0.8857142857142857,
+      "precision": 0.8893811370702126,
+      "recall": 0.8857142857142857,
+      "f1_score": 0.8858282634522107,
+      "inference_time_seconds": 0.007076263427734375
+    },
+    "Classical SVM (RBF)": {
+      "accuracy": 0.8857142857142857,
+      "precision": 0.8923737916219119,
+      "recall": 0.8857142857142857,
+      "f1_score": 0.8862896882891087,
+      "inference_time_seconds": 0.006784915924072266
+    },
+    "Classical SVM (Linear)": {
+      "accuracy": 0.8380952380952381,
+      "precision": 0.844777935097484,
+      "recall": 0.8380952380952381,
+      "f1_score": 0.8364702191306915,
+      "inference_time_seconds": 0.0014526844024658203
+    },
+    "Random Forest": {
+      "accuracy": 0.8761904761904762,
+      "precision": 0.8839569160997732,
+      "recall": 0.8761904761904762,
+      "f1_score": 0.8780161149301464,
+      "inference_time_seconds": 0.025195837020874023
+    }
+  }
+}

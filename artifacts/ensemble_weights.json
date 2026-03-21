@@ -1,0 +1,7 @@
+{
+  "qsvm_weight": 0.7639379833611968,
+  "qhcnn_weight": 0.23606201663880322,
+  "validation_f1": 1.0,
+  "validation_accuracy": 1.0,
+  "timestamp": 1773659657.0902808
+}
